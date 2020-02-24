@@ -17,9 +17,7 @@ Adaptive dictionary learning in sparse gradient domain for image recovery
 % Please cite the paper when you use th code   
 
 ## Visual illustration of learned dictionary/filters.
-
-
-<div align=center><img width="470" height="150" src="./figs/demonstration_GradDL.png"/></div> 
+![](./figs/demonstration_GradDL.png)  
 Effectiveness of GradDLRec at 2D random trajectory with 60% undersampling. (a)(d) The ground truth gradient images of brain in the horizontal and vertical directions. (b)(e) The reconstructed gradient images from undersampled measurements. (c)(f) The corresponding error maps. (g)(h) 36 dictionaries learned from full measurements (top) and undersampled measurements (bottom) in the horizontal and vertical directions, respectively.
 
 
