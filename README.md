@@ -2,8 +2,8 @@
 Adaptive dictionary learning in sparse gradient domain for image recovery   
    
 % The Code is created based on the methods described in the following paper:    
-%  Qiegen Liu, Shanshan Wang, Leslie Ying, Xi Peng, Yanjie Zhu, Dong Liang. Adaptive dictionary learning in sparse gradient domain for image recovery,   
-%       IEEE Transactions on Image Processing, 2013, 22(12): 4652-4663.       
+%  Qiegen Liu, Shanshan Wang, Leslie Ying, Xi Peng, Yanjie Zhu, Dong Liang. Adaptive dictionary learning in sparse   
+%  gradient domain for image recovery, IEEE Transactions on Image Processing, 2013, 22(12): 4652-4663.       
 %   Author: Qiegen Liu, Shanshan Wang, Leslie Ying, Xi Peng, Yanjie Zhu, Dong Liang    
 %   Date  : 10/25/2013  
 %   Version : 1.0    
