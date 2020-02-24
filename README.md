@@ -16,6 +16,13 @@ Adaptive dictionary learning in sparse gradient domain for image recovery
 %   
 % Please cite the paper when you use th code   
 
+## Visual illustration of learned dictionary/filters.
+
+
+<div align=center><img width="470" height="150" src="./figs/demonstration_GradDL.png"/></div> 
+Effectiveness of GradDLRec at 2D random trajectory with 60% undersampling. (a)(d) The ground truth gradient images of brain in the horizontal and vertical directions. (b)(e) The reconstructed gradient images from undersampled measurements. (c)(f) The corresponding error maps. (g)(h) 36 dictionaries learned from full measurements (top) and undersampled measurements (bottom) in the horizontal and vertical directions, respectively.
+
+
 ## Other Related Projects
   * Predual dictionary learning (PDL) / augmented Lagrangian multi-scale dictionary learning(ALM-DL) [<font size=5>**[Paper]**</font>](http://www.escience.cn/people/liuqiegen/index.html;jsessionid=5E20FEE3694E8BB3249B64202A8E25C8-n1)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PDL_ALM_DL_code) 
   
