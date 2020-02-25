@@ -24,7 +24,7 @@ Effectiveness of GradDLRec at 2D random trajectory with 60% undersampling. (a)(d
 ## Other Related Projects
   * Predual dictionary learning (PDL) / augmented Lagrangian multi-scale dictionary learning(ALM-DL) [<font size=5>**[Paper]**</font>](http://www.escience.cn/people/liuqiegen/index.html;jsessionid=5E20FEE3694E8BB3249B64202A8E25C8-n1)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PDL_ALM_DL_code) 
   
-  * Field-of-Experts Filters Guided Tensor Completion [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8291751/similar#similar)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/FoE_STDC)
+  * Field-of-Experts Filters Guided Tensor Completion [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8291751/similar#similar)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/FoE_STDC)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
   
   * Synthesis-analysis deconvolutional network for compressed sensing [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8296620)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SADN)
   
