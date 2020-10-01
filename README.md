@@ -37,3 +37,5 @@ Effectiveness of GradDLRec at 2D random trajectory with 60% undersampling. (a)(d
   * A Comparative Study of CNN-based Super-resolution Methods in MRI Reconstruction and Its Beyond [<font size=5>**[Paper]**</font>](https://sciencedirect.xilesou.top/science/article/abs/pii/S0923596519302358)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DCCN)
   
   * Texture variation adaptive image denoising with nonlocal PCA [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8719026)   [<font size=5>**[Code]**</font>](https://github.com/Binjie-Qin/ACVA_v1.0) 
+  
+  * Complex-valued MRI data from SIAT   [<font size=5>**[Data]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/test_data_31)
